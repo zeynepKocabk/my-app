@@ -28,6 +28,11 @@
   color: #61dafb;
 }
 
+.My-touch {
+  color: red;
+  align-items: baseline;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
